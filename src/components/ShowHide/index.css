@@ -1,0 +1,43 @@
+.container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #ffffff;
+}
+.button {
+  background-color: #ffffff;
+  color: #dd1264;
+  padding: 10px;
+  border-radius: 5px;
+  border-width: 0px;
+  margin: 40px;
+}
+.card {
+  display: flex;
+  justify-content: space-around;
+}
+
+.innerCard1 {
+  background-color: #fddddb;
+  width: 300px;
+  color: #000000;
+  border-radius: 5px;
+  padding: 40px;
+  font-size: 27px;
+  margin-left: 20px;
+}
+.innerCard2 {
+  background-color: #fddddb;
+  width: 300px;
+  color: #000000;
+  border-radius: 5px;
+  padding: 40px;
+  font-size: 27px;
+  margin-left: 20px;
+}
+.inner-card-list {
+  display: flex;
+}
